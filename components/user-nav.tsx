@@ -31,9 +31,6 @@ export function UserNav() {
             <p className="text-xs leading-none text-muted-foreground">
               m@example.com
             </p>
-            <p className="text-xs leading-none text-muted-foreground">
-              m@example.com
-            </p>
           </div>
         </DropdownMenuLabel>
         <DropdownMenuSeparator />
